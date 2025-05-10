@@ -1,0 +1,101 @@
+restaurant_name,food_name,ingredients,price,rating
+Hyderabad Express,Butter Chicken,"chicken, tomato, cream, butter, spices",97,3.7
+Sizzle Shack,Gulab Jamun,"milk solids, sugar, cardamom, ghee",330,3.8
+Chinese Hub,Paneer Butter Masala,"paneer, tomato, butter, cream, spices",329,3.6
+Spice House,Gulab Jamun,"milk solids, sugar, cardamom, ghee",172,4.1
+Mumbai Chaat House,Sizzling Brownie,"brownie, chocolate, vanilla, sizzling plate",319,4.8
+Hyderabad Express,Aloo Tikki Burger,"potato, bun, tomato, lettuce, chutney",384,5.0
+Sizzle Shack,Cheese Corn Pizza,"cheese, corn, pizza base, oregano, capsicum",121,4.2
+Street Deli,Cheese Corn Pizza,"cheese, corn, pizza base, oregano, capsicum",322,3.9
+Tandoori Treats,Veg Biryani,"rice, vegetables, saffron, spices, curd",264,3.9
+Rolls King,Paneer Butter Masala,"paneer, tomato, butter, cream, spices",177,4.4
+Street Deli,Gulab Jamun,"milk solids, sugar, cardamom, ghee",140,4.1
+Rolls King,Chilli Garlic Noodles,"noodles, garlic, chilli sauce, veggies",348,4.0
+Street Deli,Butter Chicken,"chicken, tomato, cream, butter, spices",215,3.9
+Rolls King,Aloo Tikki Burger,"potato, bun, tomato, lettuce, chutney",339,4.4
+Mumbai Chaat House,Cheesy Paneer Roll,"paneer, cheese, mayo, onion, roll base",232,4.0
+Tandoori Treats,Butter Chicken,"chicken, tomato, cream, butter, spices",392,4.2
+Spice House,Gulab Jamun,"milk solids, sugar, cardamom, ghee",127,4.8
+Chinese Hub,Butter Chicken,"chicken, tomato, cream, butter, spices",396,4.2
+Hyderabad Express,Cheese Corn Pizza,"cheese, corn, pizza base, oregano, capsicum",333,4.7
+Chinese Hub,Sizzling Brownie,"brownie, chocolate, vanilla, sizzling plate",322,3.9
+Sweet Treats,Butter Chicken,"chicken, tomato, cream, butter, spices",181,4.7
+Mumbai Chaat House,Veg Biryani,"rice, vegetables, saffron, spices, curd",286,4.7
+Spice House,Aloo Tikki Burger,"potato, bun, tomato, lettuce, chutney",428,3.6
+Sweet Treats,Cheesy Paneer Roll,"paneer, cheese, mayo, onion, roll base",411,3.8
+Rolls King,Butter Chicken,"chicken, tomato, cream, butter, spices",144,4.3
+Mumbai Chaat House,Aloo Tikki Burger,"potato, bun, tomato, lettuce, chutney",146,4.3
+Chinese Hub,Veg Biryani,"rice, vegetables, saffron, spices, curd",269,3.8
+Street Deli,Sizzling Brownie,"brownie, chocolate, vanilla, sizzling plate",399,4.0
+Pizza Planet,Chilli Garlic Noodles,"noodles, garlic, chilli sauce, veggies",290,3.9
+Rolls King,Papdi Chaat,"papdi, curd, chutney, sev, spices",205,4.4
+Rolls King,Veg Biryani,"rice, vegetables, saffron, spices, curd",231,3.6
+Hyderabad Express,Butter Chicken,"chicken, tomato, cream, butter, spices",96,4.8
+Chinese Hub,Gulab Jamun,"milk solids, sugar, cardamom, ghee",144,3.9
+Street Deli,Chilli Garlic Noodles,"noodles, garlic, chilli sauce, veggies",187,4.2
+Pizza Planet,Papdi Chaat,"papdi, curd, chutney, sev, spices",343,4.1
+Street Deli,Veg Biryani,"rice, vegetables, saffron, spices, curd",294,3.9
+Hyderabad Express,Sizzling Brownie,"brownie, chocolate, vanilla, sizzling plate",389,4.5
+Rolls King,Papdi Chaat,"papdi, curd, chutney, sev, spices",283,4.9
+Chinese Hub,Veg Biryani,"rice, vegetables, saffron, spices, curd",87,4.2
+Sweet Treats,Gulab Jamun,"milk solids, sugar, cardamom, ghee",450,4.9
+Rolls King,Paneer Butter Masala,"paneer, tomato, butter, cream, spices",346,4.3
+Sizzle Shack,Chilli Garlic Noodles,"noodles, garlic, chilli sauce, veggies",429,4.9
+Spice House,Paneer Butter Masala,"paneer, tomato, butter, cream, spices",326,4.6
+Chinese Hub,Cheese Corn Pizza,"cheese, corn, pizza base, oregano, capsicum",318,3.8
+Sizzle Shack,Papdi Chaat,"papdi, curd, chutney, sev, spices",157,4.8
+Rolls King,Butter Chicken,"chicken, tomato, cream, butter, spices",413,4.2
+Mumbai Chaat House,Aloo Tikki Burger,"potato, bun, tomato, lettuce, chutney",411,3.9
+Sizzle Shack,Aloo Tikki Burger,"potato, bun, tomato, lettuce, chutney",181,4.7
+Sizzle Shack,Veg Biryani,"rice, vegetables, saffron, spices, curd",393,4.1
+Hyderabad Express,Aloo Tikki Burger,"potato, bun, tomato, lettuce, chutney",209,3.8
+Tandoori Treats,Cheesy Paneer Roll,"paneer, cheese, mayo, onion, roll base",436,4.2
+Hyderabad Express,Gulab Jamun,"milk solids, sugar, cardamom, ghee",367,4.6
+Street Deli,Papdi Chaat,"papdi, curd, chutney, sev, spices",84,4.4
+Rolls King,Papdi Chaat,"papdi, curd, chutney, sev, spices",84,4.6
+Mumbai Chaat House,Sizzling Brownie,"brownie, chocolate, vanilla, sizzling plate",239,3.9
+Rolls King,Paneer Butter Masala,"paneer, tomato, butter, cream, spices",176,3.7
+Tandoori Treats,Sizzling Brownie,"brownie, chocolate, vanilla, sizzling plate",279,4.1
+Tandoori Treats,Papdi Chaat,"papdi, curd, chutney, sev, spices",199,3.8
+Sweet Treats,Papdi Chaat,"papdi, curd, chutney, sev, spices",83,4.1
+Sweet Treats,Aloo Tikki Burger,"potato, bun, tomato, lettuce, chutney",363,4.8
+Pizza Planet,Butter Chicken,"chicken, tomato, cream, butter, spices",184,4.4
+Chinese Hub,Aloo Tikki Burger,"potato, bun, tomato, lettuce, chutney",213,4.8
+Mumbai Chaat House,Papdi Chaat,"papdi, curd, chutney, sev, spices",120,3.6
+Rolls King,Cheesy Paneer Roll,"paneer, cheese, mayo, onion, roll base",93,3.7
+Street Deli,Gulab Jamun,"milk solids, sugar, cardamom, ghee",297,4.3
+Hyderabad Express,Sizzling Brownie,"brownie, chocolate, vanilla, sizzling plate",137,4.7
+Pizza Planet,Cheese Corn Pizza,"cheese, corn, pizza base, oregano, capsicum",440,4.4
+Mumbai Chaat House,Papdi Chaat,"papdi, curd, chutney, sev, spices",448,4.8
+Sweet Treats,Cheesy Paneer Roll,"paneer, cheese, mayo, onion, roll base",325,4.0
+Sizzle Shack,Aloo Tikki Burger,"potato, bun, tomato, lettuce, chutney",233,4.5
+Pizza Planet,Butter Chicken,"chicken, tomato, cream, butter, spices",123,3.6
+Rolls King,Cheese Corn Pizza,"cheese, corn, pizza base, oregano, capsicum",173,4.4
+Street Deli,Paneer Butter Masala,"paneer, tomato, butter, cream, spices",369,4.7
+Chinese Hub,Butter Chicken,"chicken, tomato, cream, butter, spices",181,3.6
+Spice House,Gulab Jamun,"milk solids, sugar, cardamom, ghee",107,4.0
+Hyderabad Express,Veg Biryani,"rice, vegetables, saffron, spices, curd",369,4.5
+Street Deli,Papdi Chaat,"papdi, curd, chutney, sev, spices",210,3.6
+Sizzle Shack,Cheesy Paneer Roll,"paneer, cheese, mayo, onion, roll base",269,5.0
+Mumbai Chaat House,Cheese Corn Pizza,"cheese, corn, pizza base, oregano, capsicum",219,3.9
+Sizzle Shack,Cheese Corn Pizza,"cheese, corn, pizza base, oregano, capsicum",208,4.1
+Pizza Planet,Gulab Jamun,"milk solids, sugar, cardamom, ghee",405,3.5
+Tandoori Treats,Cheese Corn Pizza,"cheese, corn, pizza base, oregano, capsicum",112,3.8
+Sweet Treats,Gulab Jamun,"milk solids, sugar, cardamom, ghee",326,3.7
+Sizzle Shack,Paneer Butter Masala,"paneer, tomato, butter, cream, spices",251,4.8
+Hyderabad Express,Butter Chicken,"chicken, tomato, cream, butter, spices",214,4.9
+Chinese Hub,Butter Chicken,"chicken, tomato, cream, butter, spices",113,3.6
+Hyderabad Express,Butter Chicken,"chicken, tomato, cream, butter, spices",303,4.5
+Street Deli,Cheese Corn Pizza,"cheese, corn, pizza base, oregano, capsicum",206,4.9
+Rolls King,Sizzling Brownie,"brownie, chocolate, vanilla, sizzling plate",290,4.7
+Sizzle Shack,Paneer Butter Masala,"paneer, tomato, butter, cream, spices",307,3.6
+Street Deli,Aloo Tikki Burger,"potato, bun, tomato, lettuce, chutney",173,3.9
+Chinese Hub,Paneer Butter Masala,"paneer, tomato, butter, cream, spices",324,3.5
+Spice House,Paneer Butter Masala,"paneer, tomato, butter, cream, spices",207,4.0
+Street Deli,Chilli Garlic Noodles,"noodles, garlic, chilli sauce, veggies",193,4.6
+Pizza Planet,Aloo Tikki Burger,"potato, bun, tomato, lettuce, chutney",122,4.0
+Sizzle Shack,Cheesy Paneer Roll,"paneer, cheese, mayo, onion, roll base",278,4.0
+Sweet Treats,Paneer Butter Masala,"paneer, tomato, butter, cream, spices",173,3.9
+Hyderabad Express,Papdi Chaat,"papdi, curd, chutney, sev, spices",92,4.7
+Chinese Hub,Paneer Butter Masala,"paneer, tomato, butter, cream, spices",436,3.8
+Tandoori Treats,Papdi Chaat,"papdi, curd, chutney, sev, spices",349,3.9
